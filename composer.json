@@ -1,6 +1,6 @@
 {
     "name": "rahulswt7/yii2-live-currency-widget",
-    "description": "Yii2 weather widget",
+    "description": "Yii2 live currency widget",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"," currency"," widget"," "],
     "license": "MIT",
